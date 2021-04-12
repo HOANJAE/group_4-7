@@ -5,10 +5,8 @@ h1 {
 
 body{
     color: blue;
-    font-size: large;
 }
-
-p {
+ h2 {
     color: white;
     font-size: large;
     font-weight: 100;
