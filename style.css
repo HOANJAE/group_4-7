@@ -4,9 +4,11 @@ h1 {
 
 body{
     color: blue;
+    font-size: large;
 }
 
 p {
     color: white;
     font-size: large;
+    font-weight: 100;
 }
